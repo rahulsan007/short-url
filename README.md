@@ -60,7 +60,7 @@ if you are running project using docker then skip this step. otherwise setup the
 
 ```bash
 #.env for backend
-DATABASE_URL="DATABASE_URL="mongodb+srv://username:password@cluster0.1xwe8we.mongodb.net/short-url?retryWrites=true&w=majority""
+DATABASE_URL="mongodb+srv://username:password@cluster.mongodb.net/short-url?retryWrites=true&w=majority"
 ```
 
 ```bash
